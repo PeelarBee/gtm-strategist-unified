@@ -1,0 +1,16 @@
+# Keep company and industry-specific work outside the reusable core.
+/inputs/
+/outputs/
+/cases/
+/private/
+/my-gtm-context.md
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store
+__pycache__/
+node_modules/

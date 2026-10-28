@@ -1,0 +1,182 @@
+[
+  {
+    "path": "sources/gtm-strategist-skills-official/.claude/.claude-plugin/plugin.json",
+    "git_blob_sha1": "2ce374fca19a086bcd2556fc0f80dceba9a6d5aa",
+    "sha256": "1ef0c546224fa7b2fdb5d46ac99324040ae9a1a1fee303e4e54e874b17cb7154",
+    "bytes": 386
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/.claude/skills/building-communication-engine/SKILL.md",
+    "git_blob_sha1": "5088fe4094cc4398519d6b4a84306b51cf601f5f",
+    "sha256": "b6f65ba2731567986e03902b65eba38a15f80bd7216a1ec4412030714d5b2abd",
+    "bytes": 11147
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/.claude/skills/building-gtm-system/SKILL.md",
+    "git_blob_sha1": "b8113991e4a3c927256e2d8990ef1d63df4686af",
+    "sha256": "706335002ab3c7cf53af762e64a2a0486a28884dbbdc73c0202723e5ed5d91e0",
+    "bytes": 24545
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/.claude/skills/building-product/SKILL.md",
+    "git_blob_sha1": "16a043987a8c93a1a3067a863ddf7261e68ead1b",
+    "sha256": "ad4b76d25d354246eeeb9e6dc7363d959bc78c34d374f537a39d18f0c602cf0f",
+    "bytes": 23510
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/.claude/skills/collecting-intelligence/SKILL.md",
+    "git_blob_sha1": "5fe4bbc7fe4071bbb825f0118368dfeaa77ac018",
+    "sha256": "e6eeaa55705cd4ee42e45d8310ab77f4ad39e9855d6171fad4f4611651231461",
+    "bytes": 19729
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/.claude/skills/crafting-positioning/SKILL.md",
+    "git_blob_sha1": "9ebc8728f40e6b1e87709e2573b7770bfdafa073",
+    "sha256": "d3ec4045ea3874641db879c07758d7467bca9cdbe172d7778361f9afb0a243c8",
+    "bytes": 20477
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/.claude/skills/executing-launch/SKILL.md",
+    "git_blob_sha1": "80aa7c76613ff157c279068d89cc55022c3912b9",
+    "sha256": "d8c2953cb2227f4d482cfc0fc75ad7a05f6e6a5368dd3f3912d6bb81056ead08",
+    "bytes": 19544
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/.claude/skills/executing-sales/SKILL.md",
+    "git_blob_sha1": "b266987af08636a011953282fe6d287504706b01",
+    "sha256": "939bcaa930a3e3c3adf869d6504efd8a245010ebd6691df4b69390b8b99661cb",
+    "bytes": 28787
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/.claude/skills/gtm-foundations/SKILL.md",
+    "git_blob_sha1": "2d86b80de381d2a20fc10451ff89cf1dabed0402",
+    "sha256": "de88845d663b31d9a18bd59a75ca250dc2c759ef91ec5736b08f05b51b6b2666",
+    "bytes": 23709
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/.claude/skills/preparing-launch-assets/SKILL.md",
+    "git_blob_sha1": "c0e1528e9704351c714017e5d8fcc234d96da025",
+    "sha256": "06dfd70472ba5248f2405c0de28dbfb8785e7153ceb762d0df664ac0a42ccf90",
+    "bytes": 20256
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/.claude/skills/running-marketing/SKILL.md",
+    "git_blob_sha1": "00e461e5a0e439de8a9e5ec3316b78a4f64dcf7f",
+    "sha256": "8108802ad3a3c74f8edfdac1f4c3ab1c5e3561d90351242abb1e96bd1627fd44",
+    "bytes": 31309
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/.claude/skills/setting-pricing/SKILL.md",
+    "git_blob_sha1": "bcaa6d64b4bc66a59bc4349231027dd031e932b7",
+    "sha256": "e7820039c4260b258f0683d080ea18670413030b760b50c30206603e15303e7c",
+    "bytes": 21651
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/.claude/skills/validating-customers/SKILL.md",
+    "git_blob_sha1": "e159529023790a6992f03cd41698a31113e1d37f",
+    "sha256": "027ad6b1f2769ec5b2f3f16aa9b8d6ed859a217807cfede435ae460048019e59",
+    "bytes": 18975
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/.gitignore",
+    "git_blob_sha1": "ab7f8b0fa7ef53c2b7fc913816c36d359f4b9730",
+    "sha256": "9ad77edbf8bedc088e4d621f485e0018155584dbf684d93738ff2b4c19aea596",
+    "bytes": 17
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/CLAUDE.md",
+    "git_blob_sha1": "fd5a6aeca5d82dbec5b51ad794c2a624553d4a89",
+    "sha256": "62d984c9061b5dc27a7142c67d8a0f2b75e7b6ef88cb324b67dd8db0ac4c7295",
+    "bytes": 4610
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/LICENSE",
+    "git_blob_sha1": "84057f5e202c88144218ad00181fd4c8dee11de3",
+    "sha256": "dfaf6d00498b093f6cabc5cc01c11046df32a5dda400e90932529e55a1cb7626",
+    "bytes": 1083
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/README.md",
+    "git_blob_sha1": "a5d4d1e44a7fdf9c9e5de409aa4dab828fc4a500",
+    "sha256": "411da871cdfa7c70f3a83b92bbc43b2b148e877ce33057229ddd7ae1e646a105",
+    "bytes": 10057
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/my-gtm-context.md",
+    "git_blob_sha1": "da2cfef724610ac0c782ba4ca4f2d3f1a1e746d3",
+    "sha256": "315840c226796e80edd8e0ad1f4371a6111c87573b326fea6a5087d724bd6a0c",
+    "bytes": 3192
+  },
+  {
+    "path": "sources/gtm-strategist-skills-official/outputs/.gitkeep",
+    "git_blob_sha1": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  {
+    "path": "sources/gtm-strategist-skill/README.md",
+    "git_blob_sha1": "dfaa25ec3c732404129c5243f48cac09c7466744",
+    "sha256": "3480c130f77f84efe6c45e8f278846b86a6c44c16c2ec0909f323cd0c8e594cb",
+    "bytes": 1682
+  },
+  {
+    "path": "sources/gtm-strategist-skill/SKILL.md",
+    "git_blob_sha1": "d67b6501e850523706050a5870bfb39fb50074f7",
+    "sha256": "fa8c453ce1ccd087ae800819533f19f885583d69dec73ddbe1cb822cb0ed20fa",
+    "bytes": 7510
+  },
+  {
+    "path": "sources/gtm-strategist-skill/references/aeo-seo.md",
+    "git_blob_sha1": "f3532b2de2ca333ec89747022e7d2bf6593b26ad",
+    "sha256": "09bcec8da772a79d5fecfb182a3f33d9fea7808202719caaca639b1f5111fbe8",
+    "bytes": 4332
+  },
+  {
+    "path": "sources/gtm-strategist-skill/references/claude-workflows.md",
+    "git_blob_sha1": "73e780eb74c26d00aabcdbf22327ad8b668650d3",
+    "sha256": "69e93d0035067f9ee8824777ef96797ff5df77e9166e77497b555c0ac24bebc4",
+    "bytes": 8331
+  },
+  {
+    "path": "sources/gtm-strategist-skill/references/frameworks.md",
+    "git_blob_sha1": "965df8e5ef030b7eb2dba9557d7c1702121b6a7f",
+    "sha256": "e5db420441087f461fc22d6a34d6148263e56f0c120574d4faf5d1f061744d65",
+    "bytes": 14779
+  },
+  {
+    "path": "sources/gtm-strategist-skill/references/growth-loops.md",
+    "git_blob_sha1": "56dc5ca06bc6f9d512ad2d665346d4f2bf83ed18",
+    "sha256": "a1756e34783c26464287aa8b4c0dd9be27aa0fe5ddfe4945b47d420049db2dfc",
+    "bytes": 5357
+  },
+  {
+    "path": "sources/gtm-strategist-skill/references/linkedin-playbook.md",
+    "git_blob_sha1": "b00700e4a4539ea013a2877830f4112e199abd0a",
+    "sha256": "42ffb114d9ff41caddf423298d4500481f0962f734dbe6dd0533e5d0004b4bc4",
+    "bytes": 5678
+  },
+  {
+    "path": "sources/gtm-strategist-skill/references/my-gtm-context-template.md",
+    "git_blob_sha1": "da2cfef724610ac0c782ba4ca4f2d3f1a1e746d3",
+    "sha256": "315840c226796e80edd8e0ad1f4371a6111c87573b326fea6a5087d724bd6a0c",
+    "bytes": 3192
+  },
+  {
+    "path": "sources/gtm-strategist-skill/references/prompts.md",
+    "git_blob_sha1": "e7568448a1f04e86c630c93be96b6797422e187f",
+    "sha256": "8ae5a62ec3bb2514e75bc8fca971411353b3437144a8fc89dee237bb7036a6d4",
+    "bytes": 4124
+  },
+  {
+    "path": "sources/gtm-strategist-skill/references/repo-architecture.md",
+    "git_blob_sha1": "e0ffc6c67067f74b5aa068df858d134f0a100828",
+    "sha256": "62abbf4ca34f4068c25ab9c6ba95a04a88882da129ff540ceb178e6de4ff147e",
+    "bytes": 6972
+  },
+  {
+    "path": "sources/gtm-strategist-skill/references/tool-stack.md",
+    "git_blob_sha1": "2e4aaaf8dd8a4a30547de20abc1d753689b55778",
+    "sha256": "e29a528a30183898769e6fe9f735c1f48d81745d948a5a73dc0da21661744ab3",
+    "bytes": 9265
+  }
+]
