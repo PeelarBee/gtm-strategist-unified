@@ -58,4 +58,4 @@ If file access or nested skill invocation is unavailable, read linked Markdown a
 
 When the user explicitly supplies an industry extension, load it after project context and before the selected task. Record its source/version and apply its domain-specific inputs and checks within the general workflow. Surface conflicts and follow the user's actual constraints. Do not invent or build an extension from an industry label alone. Keep company cases, private inputs and extension-specific outputs outside this reusable core.
 
-[FRAMEWORK.md](FRAMEWORK.md) explains the core flow; [LIBRARY.md](LIBRARY.md) catalogs tasks and references; [NOTICE.md](NOTICE.md) records applicable notices.
+[FRAMEWORK.md](FRAMEWORK.md) explains the core flow; [LIBRARY.md](LIBRARY.md) catalogs tasks and references.

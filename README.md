@@ -37,6 +37,4 @@ The core has no default industry, company or product case. A future extension ca
 
 Keep product briefs, customer information, research workbooks, campaign outputs, credentials and local environment files outside this repository. This repository contains only the reusable general agent, workflow, templates and reference library.
 
-## Sources and notices
-
-Both source snapshots are preserved unchanged under `sources/`. Read [NOTICE.md](NOTICE.md) and the preserved source license for applicable terms. The integration does not claim original authorship of preserved material. [SOURCE-MANIFEST.json](SOURCE-MANIFEST.json) records source hashes; [VALIDATION.json](VALIDATION.json) records package checks. Historical tools, prices and claims require current verification before recommendations.
+Historical tools, prices and claims in the reference library require current verification before recommendations.
