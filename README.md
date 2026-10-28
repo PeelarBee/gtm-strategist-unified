@@ -39,4 +39,4 @@ Keep product briefs, customer information, research workbooks, campaign outputs,
 
 ## Sources and notices
 
-Both source snapshots are preserved unchanged under `sources/`. Read [PROVENANCE.md](PROVENANCE.md), [NOTICE.md](NOTICE.md) and the preserved source license for origin and terms. The integration does not claim original authorship of preserved material. [SOURCE-MANIFEST.json](SOURCE-MANIFEST.json) records source hashes; [VALIDATION.json](VALIDATION.json) records package checks. Historical tools, prices and claims require current verification before recommendations.
+Both source snapshots are preserved unchanged under `sources/`. Read [NOTICE.md](NOTICE.md) and the preserved source license for applicable terms. The integration does not claim original authorship of preserved material. [SOURCE-MANIFEST.json](SOURCE-MANIFEST.json) records source hashes; [VALIDATION.json](VALIDATION.json) records package checks. Historical tools, prices and claims require current verification before recommendations.
